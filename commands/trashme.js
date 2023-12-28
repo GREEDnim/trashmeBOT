@@ -17,6 +17,6 @@ async function execute(interaction) {
 }
 
 module.exports={
-    command,
+    data:command,
     execute,
 }
