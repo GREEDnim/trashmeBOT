@@ -13,7 +13,7 @@ command.addStringOption(option =>
 async function execute(interaction) {
 	const userPrompt=interaction.options.getString('message');
     const reply=await getResponse(userPrompt);
-    await interaction.reply(`You want to trash me with the message: ${userPrompt}`);
+    await interaction.reply(reply);
 }
 
 module.exports={
