@@ -18,7 +18,6 @@ async function getResponse(prompt){
         return message;
     
     }catch(e){
-        // console.log(e.message)
         return "shut, loser"
     }
    
