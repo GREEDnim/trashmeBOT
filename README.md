@@ -1,5 +1,5 @@
 # trashmeBOT
-### Command the ultimate roasting power with the bot! This bot uses [roastedby.ai](roastedby.ai) to deliver spicy roasts and playful mocks to your friends or foes. Simply summon the bot with the prefix `/trashme` and let the roasting begin!
+### Command the ultimate roasting power with the bot! This bot uses [roastedby.ai](https://roastedby.ai/) to deliver spicy roasts and playful mocks to your friends or foes. Simply summon the bot with the prefix `/trashme` and let the roasting begin!
 
 # Usage
 
